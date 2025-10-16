@@ -1,0 +1,20 @@
+.grid-user{
+  margin-top: 25px;
+  
+}
+
+.add-user{
+  padding: 25px 50px;
+}
+
+.error{
+    padding: 5px;
+    font-style: italic;
+    color: red;
+}
+
+.text-center-hienu{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
